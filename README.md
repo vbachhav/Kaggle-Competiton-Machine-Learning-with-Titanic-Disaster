@@ -1,2 +1,2 @@
 # Data_Science
-Codes written for various data science competitions and academic projects
+Codes written for analyzing titanic disaster and building predictive model to identify the survival rate
